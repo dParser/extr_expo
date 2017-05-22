@@ -1,0 +1,384 @@
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_dr_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_dr_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_mg_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_mg_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_20_gb_dr.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_20_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_600_minut_rf_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_1500_minut_rf_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_20_gb_rf.html"
+				<a href="http://altay.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_20_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_dr_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_mg_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_3_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_3_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_dr.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_dr.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_300_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_700_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_2000_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_3_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_3_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_5_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_10_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>
+			url="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_rf.html"
+				<a href="http://amur.megafon.ru/corporate/mobile/tariffs/alltariffs/corp_unlimited/korporativnij_bezlimit_5000_minut_rf_i_15_gb_rf.html" class="b-b2b-tariff-matrix-card__more">Информация о тарифе</a>

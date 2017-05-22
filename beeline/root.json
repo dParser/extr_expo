@@ -1,0 +1,826 @@
+{
+  "$id": "1",
+  "data": {
+    "list": [
+      {
+        "$id": "2",
+        "type": "family",
+        "familyTitle": "Новые тарифы «ВСЁ!»",
+        "groups": [
+          {
+            "$id": "3",
+            "groupTitle": "Всёшечка",
+            "isHidden": true,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "4",
+                "id": 3329535,
+                "alias": "vseshechka-new",
+                "title": "Всёшечка",
+                "description": "<p>Двойной пакет интернета, безлимитные звонки на &laquo;Билайн&raquo; дома и&nbsp;в&nbsp;поездках по&nbsp;России</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "cellphone"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 1,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "5",
+                    "absolutePrice": 0,
+                    "value": "1,5 ГБ",
+                    "unit": ""
+                  },
+                  "minutePackage": {
+                    "$id": "6",
+                    "absolutePrice": 0,
+                    "value": "200",
+                    "unit": "мин."
+                  },
+                  "smsPackage": null,
+                  "price": {
+                    "$id": "7",
+                    "absolutePrice": 249,
+                    "value": "8,3",
+                    "unit": "₽ в сутки"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/vseshechka-new/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 0,
+                  "price": null,
+                  "isSeb": false
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          },
+          {
+            "$id": "8",
+            "groupTitle": "Всё 1",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "9",
+                "id": 3338888,
+                "alias": "vse-1",
+                "title": "Всё 1",
+                "description": "<p>Двойной пакет интернета, SMS, пакеты минут и&nbsp;безлимитные звонки в&nbsp;сети «Билайн» дома и в&nbsp;поездках по&nbsp;России</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "cellphone"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 10,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "10",
+                    "absolutePrice": 0,
+                    "value": "6 ГБ",
+                    "unit": ""
+                  },
+                  "minutePackage": {
+                    "$id": "11",
+                    "absolutePrice": 0,
+                    "value": "400",
+                    "unit": "мин."
+                  },
+                  "smsPackage": {
+                    "$id": "12",
+                    "absolutePrice": 0,
+                    "value": "500",
+                    "unit": "SMS"
+                  },
+                  "price": {
+                    "$id": "13",
+                    "absolutePrice": 351,
+                    "value": "11,7",
+                    "unit": "₽ в сутки"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/vse-1/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 0,
+                  "price": null,
+                  "isSeb": false
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          },
+          {
+            "$id": "14",
+            "groupTitle": "Всё 2",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "15",
+                "id": 3337821,
+                "alias": "vse-2",
+                "title": "Всё 2",
+                "description": "<p>Двойной пакет интернета, SMS, пакеты минут и&nbsp;безлимитные звонки в&nbsp;сети «Билайн» дома и в&nbsp;поездках по&nbsp;России</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "cellphone"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 20,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "16",
+                    "absolutePrice": 0,
+                    "value": "10 ГБ",
+                    "unit": ""
+                  },
+                  "minutePackage": {
+                    "$id": "17",
+                    "absolutePrice": 0,
+                    "value": "1000",
+                    "unit": "мин."
+                  },
+                  "smsPackage": {
+                    "$id": "18",
+                    "absolutePrice": 0,
+                    "value": "500",
+                    "unit": "SMS"
+                  },
+                  "price": {
+                    "$id": "19",
+                    "absolutePrice": 600,
+                    "value": "20",
+                    "unit": "₽ в сутки"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/vse-2/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 1,
+                  "price": null,
+                  "isSeb": true
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          },
+          {
+            "$id": "20",
+            "groupTitle": "Всё 3",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "21",
+                "id": 3336535,
+                "alias": "vse-3",
+                "title": "Всё 3",
+                "description": "<p>Двойной пакет интернета, SMS, безлимитные звонки в&nbsp;сети «Билайн», пакет минут дома и в&nbsp;поездках по&nbsp;России</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "cellphone"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 30,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "22",
+                    "absolutePrice": 0,
+                    "value": "15 ГБ",
+                    "unit": ""
+                  },
+                  "minutePackage": {
+                    "$id": "23",
+                    "absolutePrice": 0,
+                    "value": "1400",
+                    "unit": "мин."
+                  },
+                  "smsPackage": {
+                    "$id": "24",
+                    "absolutePrice": 0,
+                    "value": "500",
+                    "unit": "SMS"
+                  },
+                  "price": {
+                    "$id": "25",
+                    "absolutePrice": 900,
+                    "value": "30",
+                    "unit": "₽ в сутки"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/vse-3/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 3,
+                  "price": null,
+                  "isSeb": true
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          },
+          {
+            "$id": "26",
+            "groupTitle": "Всё 4",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "27",
+                "id": 3336413,
+                "alias": "vse-4",
+                "title": "Всё 4",
+                "description": "<p>Двойной пакет интернета, SMS, безлимитные звонки в&nbsp;сети «Билайн», пакет минут дома и в&nbsp;поездках по&nbsp;России</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "cellphone"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 40,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "28",
+                    "absolutePrice": 0,
+                    "value": "15 ГБ",
+                    "unit": ""
+                  },
+                  "minutePackage": {
+                    "$id": "29",
+                    "absolutePrice": 0,
+                    "value": "2000",
+                    "unit": "мин."
+                  },
+                  "smsPackage": {
+                    "$id": "30",
+                    "absolutePrice": 0,
+                    "value": "500",
+                    "unit": "SMS"
+                  },
+                  "price": {
+                    "$id": "31",
+                    "absolutePrice": 1500,
+                    "value": "50",
+                    "unit": "₽ в сутки"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/vse-4/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 5,
+                  "price": null,
+                  "isSeb": true
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          },
+          {
+            "$id": "32",
+            "groupTitle": "Всё 5",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "33",
+                "id": 3337542,
+                "alias": "vse-5",
+                "title": "Всё 5",
+                "description": "<p>Двойной пакет интернета, SMS, безлимитные звонки в&nbsp;сети «Билайн», пакет минут дома и в&nbsp;поездках по&nbsp;России</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "cellphone"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 50,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "34",
+                    "absolutePrice": 0,
+                    "value": "15 ГБ",
+                    "unit": ""
+                  },
+                  "minutePackage": {
+                    "$id": "35",
+                    "absolutePrice": 0,
+                    "value": "5000",
+                    "unit": "мин."
+                  },
+                  "smsPackage": {
+                    "$id": "36",
+                    "absolutePrice": 0,
+                    "value": "500",
+                    "unit": "SMS"
+                  },
+                  "price": {
+                    "$id": "37",
+                    "absolutePrice": 2499,
+                    "value": "83,3",
+                    "unit": "₽ в сутки"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/vse-5/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 5,
+                  "price": null,
+                  "isSeb": true
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          }
+        ],
+        "deviceTypes": [
+          "cellphone"
+        ],
+        "showBenefits": true
+      },
+      {
+        "$id": "38",
+        "type": "tariff",
+        "id": 3199687,
+        "alias": "mozhno-vsyo-planshet",
+        "title": "#можноВСЁ.Планшет",
+        "description": "<p>10 руб. в день в первый месяц для новых Клиентов, списывается за 30 дней единовременно.</p>",
+        "connectionButton": "Перейти",
+        "deviceTypes": [
+          "planshet"
+        ],
+        "isPostpaid": false,
+        "sortOrder": -600,
+        "parameters": [
+          {
+            "$id": "39",
+            "label": "Мобильный интернет",
+            "value": "12",
+            "unit": "ГБ",
+            "legal": "В момент списания абонентской платы абоненту начисляется пакет 12 Гбайт интернета на месяц на максимальной скорости. Весь неизрасходованный за предыдущий период трафик (включая начисленный в рамках пакетов «Автопродление скорости» и «Продли скорость») в момент списания абонентской платы обнуляется и на следующий период не переносится.\nУслуги передачи данных предоставляются при пользовании тарифным планом в планшетах и смартфонах. В других устройствах интернет на тарифном плане «#можноВСЁ. Планшет» недоступен. Для получения возможности пользоваться услугами передачи данных в другом устройстве нужно сменить тарифный план. При нахождении абонента на территории Чукотского АО, Таймырского и Долгано-Ненецкого муниципальных районов, ЕМО г. Норильска и г. Игарки действует тариф 9,95 руб./Мбайт (объем переданных/полученных в течение расчетного периода данных округляется в большую сторону с точностью до 150 Кбайт).\nНа территории Республики Крым и г. Севастополь действует тариф 9,95 руб./Мбайт (объем переданных/полученных в течение расчетного периода данных округляется в большую сторону с точностью до 20 Кбайт).",
+            "type": null
+          },
+          {
+            "$id": "40",
+            "label": "<h3>К оплате</h3>",
+            "value": null,
+            "unit": null,
+            "legal": null,
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "41",
+            "label": "Абонентская плата",
+            "value": "390",
+            "unit": "руб. в месяц",
+            "legal": "При приобретении SIM-карты с тарифом «#можноВСЁ. Планшет» плата за первый месяц списывается в размере 300 рублей. Через 30 дней и далее ежемесячно происходит списание абонентской в полном объеме – 390 рублей. \nПри переходе на тарифный план ежемесячная абонентская плата сразу начинает списываться в полном объёме. Мобильный интернет не ограничен при пользовании тарифным планом в планшетах и смартфонах. В других устройствах интернет на тарифном плане «#можноВСЁ. Планшет» недоступен. Для получения возможности пользоваться услугами передачи данных в другом устройстве нужно сменить тарифный план.",
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "42",
+            "label": "Стоимость перехода",
+            "value": "0",
+            "unit": "руб.",
+            "legal": null,
+            "type": "PriceGroup"
+          }
+        ],
+        "link": "/customers/products/mobile/tariffs/details/mozhno-vsyo-planshet/",
+        "image": "https://static.beeline.ru/upload/dpcupload/contents/342/mojno_vsyo-2.png",
+        "isWide": true,
+        "isConnected": false,
+        "rcRate": null,
+        "rcRateWithoutDiscount": null,
+        "discountParams": null,
+        "sharing": {
+          "count": 0,
+          "price": null,
+          "isSeb": false
+        },
+        "availableForConnect": true,
+        "isArchived": false,
+        "isRecomended": false,
+        "recommendationText": null
+      },
+      {
+        "$id": "43",
+        "type": "tariff",
+        "id": 1694477,
+        "alias": "internet-navsegda",
+        "title": "Интернет навсегда",
+        "description": "<p>200 мегабайт бесплатного интернета каждый месяц.</p>",
+        "connectionButton": "Перейти",
+        "deviceTypes": [
+          "planshet"
+        ],
+        "isPostpaid": false,
+        "sortOrder": 0,
+        "parameters": [
+          {
+            "$id": "44",
+            "label": "Бесплатный интернет ежемесячно (только для планшетов)",
+            "value": "200",
+            "unit": "МБ",
+            "legal": "<p>200 Мб начисляется ежемесячно со дня активации SIM-карты в планшете, суточных ограничений нет. Расходуется трафик только при использовании SIM-карты в планшете. При использовании SIM-карты в устройствах другого типа (смартфон, модем, роутер) бесплатный трафик не предоставляется. Использование трафика возможно на всей территории России, за исключением Республики Крым и г. Севастополь.</p>\n<p>На тарифе не предусмотрена дополнительная тарификация. По истечении 200 бесплатных Мб пользователь будет автоматически перенаправлен на страницу с возможностью выбора и подключения интернет-опций.</p>",
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "45",
+            "label": "Абонентская плата",
+            "value": "0",
+            "unit": "руб.",
+            "legal": null,
+            "type": "PriceGroup"
+          }
+        ],
+        "link": "/customers/products/mobile/tariffs/details/internet-navsegda/",
+        "image": "//static.beeline.ru/upload/dpcupload/contents/342/Lisard_214.jpg",
+        "isWide": false,
+        "isConnected": false,
+        "rcRate": null,
+        "rcRateWithoutDiscount": null,
+        "discountParams": null,
+        "sharing": {
+          "count": 0,
+          "price": null,
+          "isSeb": false
+        },
+        "availableForConnect": true,
+        "isArchived": false,
+        "isRecomended": false,
+        "recommendationText": null
+      },
+      {
+        "$id": "46",
+        "type": "family",
+        "familyTitle": "Интернет навсегда + Пакет интернета (для планшета)",
+        "groups": [
+          {
+            "$id": "47",
+            "groupTitle": "Интернет навсегда + Пакет интернета 15 Гб (Ночной безлимит)",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "48",
+                "id": 2919709,
+                "alias": "internet-navsegda-plus-paket-interneta-15gb-pl",
+                "title": "Интернет навсегда + Пакет интернета 15 Гб (Ночной безлимит)",
+                "description": null,
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "planshet"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 10,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "49",
+                    "absolutePrice": 0,
+                    "value": "15 Гб + 200 Мб",
+                    "unit": ""
+                  },
+                  "minutePackage": null,
+                  "smsPackage": null,
+                  "price": {
+                    "$id": "50",
+                    "absolutePrice": 500,
+                    "value": "500",
+                    "unit": "₽ в месяц"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/internet-navsegda-plus-paket-interneta-15gb-pl/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 0,
+                  "price": null,
+                  "isSeb": false
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          }
+        ],
+        "deviceTypes": [
+          "planshet"
+        ],
+        "showBenefits": false
+      },
+      {
+        "$id": "51",
+        "type": "tariff",
+        "id": 1542314,
+        "alias": "prostoy-internet-plus-new",
+        "title": "Простой интернет",
+        "description": "Базовый тариф для планшетов и USB-модемов без включенного пакета интернета",
+        "connectionButton": "Перейти",
+        "deviceTypes": [
+          "planshet",
+          "usb-modem"
+        ],
+        "isPostpaid": false,
+        "sortOrder": 1,
+        "parameters": [
+          {
+            "$id": "52",
+            "label": "Стоимость перехода на тариф",
+            "value": "0",
+            "unit": "руб. за переход",
+            "legal": null,
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "53",
+            "label": "Абонентская плата",
+            "value": "0",
+            "unit": "руб. в месяц",
+            "legal": null,
+            "type": "PriceGroup"
+          }
+        ],
+        "link": "/customers/products/mobile/tariffs/details/prostoy-internet-plus-new/",
+        "image": "//static.beeline.ru/upload/dpcupload/contents/342/12cartina_215x300.jpg",
+        "isWide": false,
+        "isConnected": false,
+        "rcRate": null,
+        "rcRateWithoutDiscount": null,
+        "discountParams": null,
+        "sharing": {
+          "count": 0,
+          "price": null,
+          "isSeb": false
+        },
+        "availableForConnect": true,
+        "isArchived": false,
+        "isRecomended": false,
+        "recommendationText": null
+      },
+      {
+        "$id": "54",
+        "type": "family",
+        "familyTitle": "Интернет навсегда + Пакет интернета (для модема)",
+        "groups": [
+          {
+            "$id": "55",
+            "groupTitle": "Интернет навсегда + Пакет интернета 15 Гб (ночной безлимит)",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "56",
+                "id": 2919829,
+                "alias": "internet-navsegda-paket-interneta-15-gb-nochnoy-bezlimit",
+                "title": "Интернет навсегда + Пакет интернета 15 Гб (ночной безлимит)",
+                "description": "<p>При подключении к тарифному плану с 30 марта 2016 года до 31 августа 2016 года вам будет доступна также&nbsp;<a href=\"/customers/products/mobile/bonus/details/bezlimitnaya-pochta-dlya-plansheta/\">бесплатная безлимитная почта</a>! Вы не только получаете 200Мб бесплатного интернета для планшета каждый месяц, но и возможность отправлять и получать письма через почтовые приложения Mail.ru, Яндекс.Почта и Gmail без учета трафика. Оставайтесь на связи даже если интернет-трафик закончился.</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "usb-modem"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 5,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "57",
+                    "absolutePrice": 0,
+                    "value": "15 Гб + 200 Мб",
+                    "unit": ""
+                  },
+                  "minutePackage": null,
+                  "smsPackage": null,
+                  "price": {
+                    "$id": "58",
+                    "absolutePrice": 500,
+                    "value": "500",
+                    "unit": "₽ в месяц"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/internet-navsegda-paket-interneta-15-gb-nochnoy-bezlimit/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 0,
+                  "price": null,
+                  "isSeb": false
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          },
+          {
+            "$id": "59",
+            "groupTitle": "Интернет навсегда + Пакет интернета 30 Гб (ночной безлимит)",
+            "isHidden": false,
+            "isRecommended": false,
+            "tariffs": [
+              {
+                "$id": "60",
+                "id": 2919855,
+                "alias": "internet-navsegda-plus-paket-30gb-nochnoy-bezlimit",
+                "title": "Интернет навсегда + Пакет интернета 30 Гб (ночной безлимит)",
+                "description": "<p>При подключении к тарифному плану с 30 марта 2016 года до 31 августа 2016 года вам будет доступна также&nbsp;<a href=\"/customers/products/mobile/bonus/details/bezlimitnaya-pochta-dlya-plansheta/\">бесплатная безлимитная почта</a>! Вы не только получаете 200Мб бесплатного интернета для планшета каждый месяц, но и возможность отправлять и получать письма через почтовые приложения Mail.ru, Яндекс.Почта и Gmail без учета трафика. Оставайтесь на связи даже если интернет-трафик закончился.</p>",
+                "connectionButton": "Перейти",
+                "deviceTypes": [
+                  "usb-modem"
+                ],
+                "isPostpaid": false,
+                "sortOrder": 10,
+                "parameters": {
+                  "internetPackage": {
+                    "$id": "61",
+                    "absolutePrice": 0,
+                    "value": "30 Гб + 200 Мб",
+                    "unit": ""
+                  },
+                  "minutePackage": null,
+                  "smsPackage": null,
+                  "price": {
+                    "$id": "62",
+                    "absolutePrice": 800,
+                    "value": "800",
+                    "unit": "₽ в месяц"
+                  },
+                  "discount": null
+                },
+                "link": "/customers/products/mobile/tariffs/details/internet-navsegda-plus-paket-30gb-nochnoy-bezlimit/",
+                "isConnected": false,
+                "sharing": {
+                  "count": 0,
+                  "price": null,
+                  "isSeb": false
+                },
+                "availableForConnect": true,
+                "isArchived": false,
+                "isRecomended": false,
+                "recommendationText": null
+              }
+            ]
+          }
+        ],
+        "deviceTypes": [
+          "usb-modem"
+        ],
+        "showBenefits": false
+      },
+      {
+        "$id": "63",
+        "type": "tariff",
+        "id": 3332657,
+        "alias": "nol-somneniy-new",
+        "title": "Ноль сомнений",
+        "description": "<p>Единая цена на все местные звонки &ndash; 1,5 руб/мин. Без абонентской платы.</p>",
+        "connectionButton": "Перейти",
+        "deviceTypes": [
+          "cellphone"
+        ],
+        "isPostpaid": false,
+        "sortOrder": 60,
+        "parameters": [
+          {
+            "$id": "64",
+            "label": "Абонентская плата",
+            "value": "0",
+            "unit": "руб/сутки",
+            "legal": null,
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "65",
+            "label": "Стоимость перехода",
+            "value": "0",
+            "unit": "руб.",
+            "legal": "Если с момента предыдущей смены тарифа прошло более одного месяца – бесплатно, если менее одного месяца – 100 руб.",
+            "type": "PriceGroup"
+          }
+        ],
+        "link": "/customers/products/mobile/tariffs/details/nol-somneniy-new/",
+        "image": "http://static.beeline.ru/upload/contents/360/Default/promo_1.png",
+        "isWide": false,
+        "isConnected": false,
+        "rcRate": null,
+        "rcRateWithoutDiscount": null,
+        "discountParams": null,
+        "sharing": {
+          "count": 0,
+          "price": null,
+          "isSeb": false
+        },
+        "availableForConnect": true,
+        "isArchived": false,
+        "isRecomended": false,
+        "recommendationText": null
+      },
+      {
+        "$id": "66",
+        "type": "tariff",
+        "id": 3223702,
+        "alias": "sekunda",
+        "title": "Секунда",
+        "description": "<p>Тариф с посекундной тарификацией</p>\n<p>Без абонентской платы</p>",
+        "connectionButton": "Перейти",
+        "deviceTypes": [
+          "cellphone"
+        ],
+        "isPostpaid": false,
+        "sortOrder": 400,
+        "parameters": [
+          {
+            "$id": "67",
+            "label": "<h3>К оплате</h3>",
+            "value": null,
+            "unit": null,
+            "legal": null,
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "68",
+            "label": "Абонентская плата",
+            "value": "0",
+            "unit": "руб. в день",
+            "legal": "<p>Списывается с электронного счета ежесуточно. В момент подключения тарифного плана/услуги с электронного счета абонента списывается плата за текущие сутки. При блокировании телефона (приостановлении оказания услуг связи) абонентская плата не взимается. Размер абонентской платы составляет 5 руб. в день (с учетом НДС) - начиная с 91-го дня с момента последней активности абонента, повлекшей списание средств с Электронного счета (платные звонки, SMS, MMS, GPRS &ndash; сессии и т.п.) и перестает взиматься в случае возобновления активности абонента или исчерпания баланса. В случаях, если в расчетном периоде были списания средств с Электронного счета Абонента абонентская плата включена в стоимость услуг связи и не взимается в виде отдельной суммы.</p>",
+            "type": "PriceGroup"
+          },
+          {
+            "$id": "69",
+            "label": "Стоимость перехода",
+            "value": "0",
+            "unit": "руб.",
+            "legal": null,
+            "type": "PriceGroup"
+          }
+        ],
+        "link": "/customers/products/mobile/tariffs/details/sekunda/",
+        "image": "https://static.beeline.ru/upload/dpcupload/contents/342/sek-215x298.jpg",
+        "isWide": false,
+        "isConnected": false,
+        "rcRate": null,
+        "rcRateWithoutDiscount": null,
+        "discountParams": null,
+        "sharing": {
+          "count": 0,
+          "price": null,
+          "isSeb": false
+        },
+        "availableForConnect": true,
+        "isArchived": false,
+        "isRecomended": false,
+        "recommendationText": null
+      }
+    ],
+    "filters": [
+      {
+        "$id": "70",
+        "alias": "cellphone",
+        "title": "Телефон",
+        "icon": "https://static.beeline.ru/upload/dpcupload/contents/314/main-mob_phone.png",
+        "link": null
+      },
+      {
+        "$id": "71",
+        "alias": "planshet",
+        "title": "Планшет",
+        "icon": "https://static.beeline.ru/upload/dpcupload/contents/314/main-tablet.png",
+        "link": null
+      },
+      {
+        "$id": "72",
+        "alias": "usb-modem",
+        "title": "USB-модем",
+        "icon": "//static.beeline.ru/upload/dpcupload/contents/314/main-usb.png",
+        "link": null
+      }
+    ],
+    "archiveLink": "/customers/products/mobile/tariffs/archive/",
+    "isAuthenticated": false
+  }
+}

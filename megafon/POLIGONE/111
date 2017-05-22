@@ -1,0 +1,9 @@
+#!/bin/bash
+
+### 4.
+# "Грязные" названия регионов привести к стандартным:
+#echo $PATH
+echo -n > BK_Megafon.txt
+while IFS=$'\x09' read region name call internet cost; do
+	echo -e "$(./get_standart_name $region)\t$name\t$call\t$internet$$cost" >> BK_Megafon.txt
+done <RAWFILE
